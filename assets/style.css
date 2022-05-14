@@ -1,6 +1,11 @@
-.board{
-    font-family: Creepster;
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Nunito:wght@200;400&display=swap');
+ .board{
+    font-family: 'Hanalei fill';
 }
 .container{
     align-content: center;
+    padding-left: 30px;
+    border-radius: 10px;
+    border-color: black;
+    border: 3px;
 }
