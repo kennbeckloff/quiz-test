@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Nunito:wght@200;400&display=swap');
- .board{
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  } 
+  .mode{
+      float: right;
+      border-radius: 0px;
+      border-color: black;
+      font-size: 25px;
+  }
+  
+.board{
     font-family: 'Hanalei fill';
     align-items: center;
     padding-left: 600px;
