@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Nunito:wght@200;400&display=swap');
  .board{
     font-family: 'Hanalei fill';
+    align-items: center;
+    padding-left: 600px;
 }
 .container{
-    align-content: center;
-    padding-left: 30px;
-    border-radius: 10px;
-    border-color: black;
-    border: 3px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+div.quizarea{
+    border: 2px solid gray;
+    width: 60%;
+    margin: auto;
 }
