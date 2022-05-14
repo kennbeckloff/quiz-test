@@ -14,3 +14,10 @@ div.quizarea{
     width: 60%;
     margin: auto;
 }
+.sub{
+border: 5px solid;
+color: white;
+background-color: green;
+border-radius: 12px;
+font-size: 15px;
+    }
