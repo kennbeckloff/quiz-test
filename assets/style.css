@@ -54,4 +54,6 @@ right: 300px;
 
     .score{
         align-content: center;
+        text-align: center;
+        font-size: 30px;
     }
