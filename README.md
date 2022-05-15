@@ -63,7 +63,7 @@ As a user of the application,you will be able to :
  [Go Back to the top](#quiz-test)
 ### Live Link 
 
-- Click this link to view the live application 
+- Click this link to view the live application https://kennbeckloff.github.io/quiz-test/
 
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
